@@ -1,0 +1,73 @@
+/* .servicesSection {
+  background-color: white;
+  height: 850px;
+} */
+
+/* .servicesContainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  max-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+} */
+
+/* .servicesheading {
+  text-align: center;
+  padding: 50px 0px 0px 0px;
+} */
+/* .servicesparagraphheading {
+  line-height: 28px;
+} */
+
+/* .blueLine {
+  width: 100px;
+  height: 25px;
+  border: 3px solid #247aeb;
+  border-color: #247aeb transparent transparent transparent;
+  border-radius: 55%/20px 45% 25% 10%;
+} */
+/* .servicesBox {
+  display: flex;
+  margin: 40px 0px 0px 0px;
+} */
+
+/* .boxOne {
+  background: none;
+  border: 2px solid rgba(164, 164, 164, 0.338);
+  border-radius: 10px;
+  height: 270px;
+  margin: 0px 0px 0px 20px;
+  gap: 30;
+  text-align: center;
+  line-height: 22px;
+  padding: 30px 0px 0px 0px;
+} */
+
+/* .boxheading {
+  padding: 25px 0px 0px 0px;
+} */
+
+/* .boxparagraph {
+  padding: 10px 15px 15px 15px;
+  line-height: 23px;
+} */
+
+/* .boxOne:hover {
+  border: 2px solid #247aeb;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  transition: 0.3s ease-in;
+} */
+/* .servicesGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+} */
+
+@media (max-width: 1024px) {
+  .boxOne {
+    width: 400px;
+    height: 100px;
+  }
+}

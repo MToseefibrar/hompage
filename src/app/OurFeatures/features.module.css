@@ -1,0 +1,55 @@
+/* .featuresSection {
+  background-color: #f9f9f9;
+  height: 430px;
+ 
+} */
+
+/* .featureboxcontainer {
+  margin: 10px 0px 0px 0px;
+} */
+
+/* .featuresContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* .featuresHeading {
+  margin: 40px 0px 0px 0px;
+} */
+
+.blueLine {
+  width: 300px;
+  height: 25px;
+  border: 3px solid #247aeb;
+  border-color: #247aeb transparent transparent transparent;
+  border-radius: 55%/20px 45% 25% 10%;
+  margin: 9px 0px 0px 0px;
+}
+
+/* .featureBox {
+  display: flex;
+  margin: 10px 0px 0px 0px;
+} */
+
+/* .box {
+  background-color: white;
+  border: 2px solid rgba(217, 217, 217, 0.338);
+  border-radius: 6px;
+  height: 65px;
+  width: 230px;
+  margin: 0px 0px 0px 10px;
+  text-align: center;
+} */
+/* .boxheading {
+  font-size: 15px;
+  padding: 25px 10px 10px 80px;
+} */
+
+/* .box:hover {
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+} */

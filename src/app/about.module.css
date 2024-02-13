@@ -1,0 +1,64 @@
+/* .aboutSection {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #161731;
+  height: 600px;
+} */
+
+/* .aboutContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 50px;
+} */
+/* .imageSide Image {
+  margin: 30px 30px 30px 30px;
+} */
+
+/* .aboutHeading {
+  color: white;
+  font-size: 28px;
+  line-height: 35px;
+  font-weight: 600;
+} */
+
+/* .headingOne {
+  color: aliceblue;
+  font-weight: 250;
+} */
+/* 
+.blueLine {
+  width: 100px;
+  height: 25px;
+  border: 3px solid #247aeb;
+  border-color: #247aeb transparent transparent transparent;
+  border-radius: 55%/20px 45% 25% 10%;
+  margin: 5px 0px 0px -10px;
+} */
+
+/* .aboutParagraph {
+  color: white;
+  font-weight: 150;
+  font-size: 15px;
+  line-height: 21px;
+  padding: 15px 0px 0px 0px;
+} */
+/* .aboutButton {
+  background: none;
+  border: 1px solid white;
+  height: 40px;
+  width: 120px;
+  color: white;
+  border-radius: 20px;
+  margin: 32px 0px 0px 0px;
+} */
+
+/* .aboutButton:hover {
+  background-color: #247aeb;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s ease-in;
+} */

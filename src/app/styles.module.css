@@ -1,0 +1,103 @@
+/**** SECTION ONE CSS *****/
+
+/* .sectionOneContainer {
+  background-color: #f9f9f9;
+} */
+
+/* .sectionOne {
+  background-color: #f9f9f9;
+  height: 550px;
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* .homecontainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} */
+/* .textside {
+  margin: 70px 0px 0px 0px;
+} */
+
+/* .textside h1 {
+  font-size: 54px;
+  line-height: 1.2em;
+  max-height: 3.4em;
+  overflow: hidden;
+} */
+/* 
+.headingblue {
+  color: #247aeb;
+} */
+
+/* .blueLine {
+  width: 370px;
+  height: 25px;
+  border: 3px solid #247aeb;
+  border-color: #247aeb transparent transparent transparent;
+  border-radius: 50%/20px 45% 35% 20%;
+} */
+/* .paragraph p {
+  line-height: 1.2em;
+  height: 1.6em;
+  overflow: hidden;
+  padding: 10px 0px 0px 0px;
+} */
+
+/* .imageside Img {
+  padding: 50px 0px 0px 0px;
+} */
+
+/* .button {
+  background-color: #161731;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 150px;
+  border-radius: 20px;
+  font-weight: 400;
+  margin: 30px 0px 0px 0px;
+} */
+
+/* .button:hover {
+  background: none;
+  border: 2px solid #161731;
+  transition: 0.2s ease-in;
+  color: #161731;
+} */
+
+/**** SECTION TWO CSS *****/
+
+/* .sectionTwoContainer {
+  background-color: #247aeb;
+} */
+
+/* .sectionTwo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #247aeb;
+  height: 100px;
+  max-width: 82%;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* .logosGallery {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+} */
+
+.logosGallery img {
+  margin: 0px 0px 0px 50px;
+}
+
+.imageTwoOriginal {
+  height: 20px;
+  width: 100%;
+  transition: width 0.5s, height 0.5s;
+}
